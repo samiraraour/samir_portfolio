@@ -19,16 +19,14 @@ function Projet2() {
       </Row>
       <Row className="mt-5">
         <Col>
-          <h1>Projet 2</h1>
-          <p>Description du Projet 2</p>
+         <h1>Projet 2</h1>
+          <p>Couverture vidéo et photo d'un événement touristique (camping) a la ville d'Oran,Algérie</p>
           <h2>technologies utilisées</h2>
           <ul>
-            <li>Technologie 21</li>
-            <li>Technologie 22</li>
-            <li>Technologie 23</li>
-            <li>Technologie 21</li>
-            <li>Technologie 22</li>
-            <li>Technologie 23</li>
+            <li>Adobe Photoshop</li>
+            <li>Adobe Premiere pro</li>
+            <li>DSLR Canon 80D Obj 70-200 mm</li>
+          
           </ul>
         </Col>
       </Row>
